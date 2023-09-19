@@ -35,7 +35,7 @@ int main() {
 			q++;
 		}
 		cout << endl;
-	}*/\
+	}*/
 	//5th Pattern
 		int k=0;
 	
