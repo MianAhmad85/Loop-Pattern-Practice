@@ -28,12 +28,24 @@ int main() {
 		cout << endl;
 	}*/
 	//4th Pattern
-	int q = 0;
+	/*int q = 0;
 	for (int i = 0; i <= rows; i++) {
 		for (int j = 0; j <= i; j++) {
 			cout << q<<" ";
 			q++;
 		}
+		cout << endl;
+	}*/\
+	//5th Pattern
+		int k=0;
+	
+	for (int i = 0; i < rows; i++) {
+		for (int j = rows; j >= i; j--) {
+			cout << " ";
+		}
+		for (k = 1; k <= 2 * i - 1; k++) {
+		cout << "*";
+	    }
 		cout << endl;
 	}
 	return 0;
