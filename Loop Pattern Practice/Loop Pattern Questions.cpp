@@ -12,11 +12,11 @@ int main() {
 		cout << endl;
 	}*/
 	//2nd Pattern
-	for (int i = 0; i <= rows; i++) {
+	/*for (int i = 0; i <= rows; i++) {
 		for (int j = 0; j <= i; j++) {
 			cout << i;
 		}
 		cout << endl;
-	}
+	}*/
 	return 0;
 }
