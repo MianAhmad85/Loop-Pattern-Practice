@@ -35,9 +35,9 @@ int main() {
 			q++;
 		}
 		cout << endl;
-	}*/\
+	}*/
 	//5th Pattern
-		int k=0;
+	/*int k=0;
 	
 	for (int i = 0; i < rows; i++) {
 		for (int j = rows; j >= i; j--) {
