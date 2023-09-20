@@ -42,7 +42,7 @@ int main() {
 	for (int i = 0; i < rows; i++) {
 		for (int j = rows; j >= i; j--) {
 			cout << " ";
-		}
+		} 
 		for (k = 1; k <= 2 * i - 1; k++) {
 		cout << "*";
 	    }
